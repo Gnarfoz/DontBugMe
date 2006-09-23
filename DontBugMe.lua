@@ -17,9 +17,9 @@ function DontBugMe:FilterMessage(event)
 	if ( event == "CHAT_MSG_AFK" or event == "CHAT_MSG_DND") then
 		if self.data[arg2] and self.data[arg2] ~= arg1 or not self.data[arg2] then
 			self.data[arg2] = arg1
-			self.hooks.ChatFrame_OnEvent.orig(event)
+			self.hooks.ChatFrame_OnEvent(event)
 		end
 	else
-		self.hooks.ChatFrame_OnEvent.orig(event)
+		self.hooks.ChatFrame_OnEvent(event)
 	end
 end
