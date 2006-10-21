@@ -2,7 +2,7 @@
 --      Declaration       --
 ----------------------------
 
-DontBugMe = AceLibrary("AceAddon-2.0"):new("AceHook-2.0")
+DontBugMe = AceLibrary("AceAddon-2.0"):new("AceHook-2.1")
 
 ----------------------------
 --      Main Functions    --
