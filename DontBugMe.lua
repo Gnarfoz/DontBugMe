@@ -10,7 +10,7 @@ DontBugMe = AceLibrary("AceAddon-2.0"):new("AceHook-2.1")
 
 function DontBugMe:OnEnable()
 	self.data = {}
-	self:Hook("ChatFrame_OnEvent", "FilterMessage")
+	self:Hook("ChatFrame_OnEvent", "FilterMessage", true)
 end
 
 function DontBugMe:FilterMessage(event)

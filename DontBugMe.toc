@@ -1,4 +1,4 @@
-## Interface: 11200
+## Interface: 20000
 ## Author: Moonsorrow
 ## Title: DontBugMe |cff7fff7f -Ace2-|r
 ## Notes: Filters afk and dnd messages after you see it once
