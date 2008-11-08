@@ -1,19 +1,13 @@
-## Interface: 20000
-## Author: Moonsorrow
-## Title: DontBugMe |cff7fff7f -Ace2-|r
-## Notes: Filters afk and dnd messages after you see it once
-## Version: 1.12.1
-## DefaultState: Enabled
-## X-Build: $Revision$
-## X-ReleaseDate: "$Date$"
+## Interface: 30000
+
+## Title: DontBugMe
+## Notes: Filters AFK and DND messages after you've seen them once.
+## Notes-deDE: Unterdrückt alle AFK- und DND-Nachrichten nach der ersten.
+
+## Version: @project-version@.@project-revision@
+## Author: Gnarfoz
+## X-Email: gnarfoz@gmail.com
+## X-Credits: Moonsorrow (EU-Destromath) for the original Ace2 addon and making a good idea into an actual addon. ;-)
 ## X-Category: Chat/Communication
-## X-eMail: moonsorrow@gmx.de
-## X-Website: http://www.for-the-horde.de
-## OptionalDeps: Ace2
-Libs\AceLibrary\AceLibrary.lua
-Libs\AceOO\AceOO-2.0.lua
-Libs\AceHook\AceHook-2.1.lua
-Libs\AceEvent\AceEvent-2.0.lua
-Libs\AceAddon\AceAddon-2.0.lua
 
 DontBugMe.lua
