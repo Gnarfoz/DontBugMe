@@ -6,6 +6,7 @@ local function filter(msg, a2)
         return true
     else
         data[a2] = msg
+        return false, msg
     end
 end
 
