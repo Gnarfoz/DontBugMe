@@ -4,7 +4,7 @@
 ## Notes: Filters AFK and DND messages after you've seen them once.
 ## Notes-deDE: Unterdrückt alle AFK- und DND-Nachrichten nach der ersten.
 
-## Version: @project-version@.@project-revision@
+## Version: @project-version@
 ## Author: Gnarfoz
 ## X-Email: gnarfoz@gmail.com
 ## X-Credits: Moonsorrow (EU-Destromath) for the original Ace2 addon and making a good idea into an actual addon. ;-)
