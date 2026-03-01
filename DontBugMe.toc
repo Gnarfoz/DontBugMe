@@ -9,5 +9,6 @@
 ## X-Email: gnarfoz@gmail.com
 ## X-Credits: Moonsorrow (EU-Destromath) for the original Ace2 addon and making a good idea into an actual addon. ;-)
 ## X-Category: Chat/Communication
+## X-Dummy: Dummy
 
 DontBugMe.lua
