@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 120001
 
 ## Title: DontBugMe
 ## Notes: Filters AFK and DND messages after you've seen them once.
